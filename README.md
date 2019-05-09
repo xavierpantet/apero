@@ -6,3 +6,6 @@ Each bar should have the following informations:
 - Name
 - Short description
 - Full address
+
+## Bars
+*To be added...*
