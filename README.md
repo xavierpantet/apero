@@ -6,6 +6,9 @@ Each bar should have the following informations:
 - Name
 - Short description
 - Full address
+- Website (if any)
+- Price indicator ($ = cheap, $$ = moderate, $$$ = expensive)
 
 ## Bars
-*To be added...*
+| Bar           | Description        | Address          | Website         | Price         |
+|---------------|--------------------|------------------|-----------------|---------------|
