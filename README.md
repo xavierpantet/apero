@@ -10,4 +10,5 @@ Each bar should have the following informations:
 - Price indicator ($ = cheap, $$ = moderate, $$$ = expensive)
 
 ## Bars
-*To be added...*
+| Bar           | Description        | Address          | Website         | Price         |
+|---------------|--------------------|------------------|-----------------|---------------|
