@@ -12,3 +12,4 @@ Each bar should have the following informations:
 ## Bars
 | Bar           | Description        | Address          | Website         | Price         |
 |---------------|--------------------|------------------|-----------------|---------------|
+|Satellite (SAT)|Satellite, or just SAT, is the student managed bar at EPFL. A beautiful place with a great choice of beers. Many student meet there on a daily basis to recover from a long day of studying.|Bar Satellite<br />CP 102<br />1015 Lausanne-EPFL|https://satellite.bar/|$$|
